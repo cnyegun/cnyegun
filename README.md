@@ -1,3 +1,3 @@
-This github profile is like my diary of trying to make the computer do funny stuff for me.
+My journal of programming a.k.a make computer do funny stuff. 
 
 Check out my website too, [tinyembedded.com](https://tinyembedded.com). 
