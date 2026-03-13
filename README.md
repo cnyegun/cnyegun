@@ -1,2 +1,3 @@
 - [lutlunch.fi](https://lutlunch.fi) menu for four restaurants on campus.
 - [LPR Bussi](https://github.com/cnyegun/lpr_bussi) bus and trip planner app, similar but better than [Jouko](https://play.google.com/store/apps/details?id=fi.octo3.lpr_bussit_cw).
+- [Honeygrad](https://github.com/cnyegun/honeygrad) simple neural network: forward and backward pass implementation
