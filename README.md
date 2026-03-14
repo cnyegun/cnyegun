@@ -1,4 +1,4 @@
 - [lutlunch.fi](https://lutlunch.fi) menu for four restaurants on campus.
 - [LPR Bussi](https://github.com/cnyegun/lpr_bussi) bus and trip planner app, similar but better than [Jouko](https://play.google.com/store/apps/details?id=fi.octo3.lpr_bussit_cw).
 - [honeygrad](https://github.com/cnyegun/honeygrad) simple neural network: forward and backward pass implementation
-- [openedge](https://github.com/cnyegun/openedge) compress yolo nanos model to run on ESP32s or STM32N6
+- [openedge](https://github.com/cnyegun/openedge) compress yolo nano models to run on ESP32s or STM32N6
